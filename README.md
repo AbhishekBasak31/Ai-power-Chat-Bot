@@ -8,3 +8,12 @@ Real-time Interaction: Provides real-time responses with minimal delay.
 Customizable: Easy to modify for specific use cases such as FAQ bots, support agents, or educational tutors.
 Integration: Can be integrated into websites, mobile apps, or messaging platforms like WhatsApp, Slack, etc.
 
+# Technologies Used
+Frontend: React.js
+Backend: Node.js, Express.js
+Database: MongoDB (for storing user queries and bot responses)
+NLP Service: Dialogflow/IBM Watson NLP
+Authentication: JWT (JSON Web Tokens) for secure user sessions
+API Testing: Postman
+Deployment: Vercel
+
